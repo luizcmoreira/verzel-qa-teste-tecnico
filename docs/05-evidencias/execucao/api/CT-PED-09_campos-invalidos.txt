@@ -1,0 +1,14 @@
+HTTP/2 422 
+date: Wed, 07 Oct 2026 02:14:51 GMT
+content-type: application/json; charset=utf-8
+content-length: 296
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7I6rdJ6YF3prpFUaPI7b7Bkbp%2Bh5i5oUk2HRd7u5Nk0XYKpAP58B8U%2FcRKpM%2F06qW81zOk8NWPPj9z1%2FfKrEztj0x8wSGVnFNF%2F%2BVKKE8aLuGKfp4iIa%2BCisjeNGg9hgh%2BEx35OJ8jX9Pe9wk4dBnHO0BBYMu8hUoPuyhbaQw64%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a4696508be527254-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"DADOS_INVALIDOS","mensagem":"Existem campos inválidos no pedido.","campos":[{"campo":"cliente.nome","mensagem":"Informe nome e sobrenome."},{"campo":"cliente.email","mensagem":"Informe um e-mail válido."},{"campo":"cliente.cep","mensagem":"Informe um CEP com 8 dígitos."}]}}

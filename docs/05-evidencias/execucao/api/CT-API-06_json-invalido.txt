@@ -1,0 +1,14 @@
+HTTP/2 400 
+date: Wed, 07 Oct 2026 02:14:47 GMT
+content-type: application/json; charset=utf-8
+content-length: 105
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bPC0S5MjqA80iI9WVC8TTCGIlGGXBRySb%2FLiq6fzlqyizGWrJ9GVoqiHlmzmlg9O4PqPvOFsVDoO9mlbVzkcyRXT268fp7EuQ6KtgA2dJg08bqq61UaMpu8VANIDU9w6Jg%2Fm%2BOuI2KJKTPO7Y7X7Qu6XTYWVC8cZwmotnXXDkX0%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46964f09b9af1b5-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"JSON_INVALIDO","mensagem":"O corpo da requisição deve ser um objeto JSON válido."}}

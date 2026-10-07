@@ -1,0 +1,14 @@
+HTTP/2 200 
+date: Wed, 07 Oct 2026 00:37:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 224
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7JmW%2FjC9Qu0TZ7UsCJ1lY0bFinr9SRtw86EmgCWCh1%2F4jSE%2BrqH2cWlZ5MppI%2FninGfdGQ%2BfLplTrYpqgdKO9Y94Y2iPVwKK25NUjulS5%2FJ%2BK0Me%2B9%2Fy7vl6zzT2naHnqieTMC0f7VqC6NudnFCfaAbX%2BLcBmmj1DrIC%2FNKds%2Fg%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a468d6650e67fc31-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"itens":[{"produtoId":"P005","nome":"Mochila Urbana 20L","precoUnitario":100,"quantidade":2,"total":200}],"subtotal":200,"desconto":0,"frete":19.9,"freteGratis":false,"valorFaltanteFreteGratis":0,"total":219.9,"cupom":null}

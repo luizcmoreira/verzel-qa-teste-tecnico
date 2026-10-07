@@ -1,0 +1,14 @@
+HTTP/2 422 
+date: Wed, 07 Oct 2026 02:14:48 GMT
+content-type: application/json; charset=utf-8
+content-length: 118
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SX5f5kuzrYNYSOm%2BOUhWGxhvF4Q%2B0SK6mN2Gg6GXerMVd0Qkw6hAILvKFAtSPac4wwbWl7UXP5lVo1RldPEJQZxvYXnut5e%2F%2BJEwBn%2BlGW0oduVi1WULv%2FaROdqDQIjjZer2oNkCoAqTKTPa6CqZXTBA0k%2BfMbbaRm1V3kInXuE%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46964f60b848bf6-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"ITEM_DUPLICADO","mensagem":"O produto P001 aparece mais de uma vez.","campo":"itens[1].produtoId"}}

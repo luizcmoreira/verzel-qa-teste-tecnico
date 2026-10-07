@@ -1,0 +1,14 @@
+HTTP/2 201 
+date: Wed, 07 Oct 2026 02:14:51 GMT
+content-type: application/json; charset=utf-8
+content-length: 367
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZOIrFbmkTJAYK04B1DAFakzMPP40zjZ%2FuEsGDt8RSsjdmsI5mg4C%2FwhfG7SUleloyzPh6tVfPVe4P9jM3AvPrQAeU2pr%2BTv1CXK%2BqJoNk8T0WDk8v8ZXJ32M1IDyhUEXsNm3hOQQh0xSO5V9rIk4%2By52G5BzPn%2FwLGYBoA7L9ZM%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a469650a091ff1ed-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"numero":"VZ-696354","criadoEm":"2026-10-07T02:14:51.209Z","cliente":{"nome":"Maria Silva","email":"maria@exemplo.com","cep":"01310100"},"itens":[{"produtoId":"P001","nome":"Camiseta Essencial","precoUnitario":59.9,"quantidade":1,"total":59.9}],"subtotal":59.9,"desconto":0,"frete":19.9,"freteGratis":false,"valorFaltanteFreteGratis":140.1,"total":79.8,"cupom":null}

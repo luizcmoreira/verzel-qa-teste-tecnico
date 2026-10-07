@@ -1,0 +1,14 @@
+HTTP/2 422 
+date: Wed, 07 Oct 2026 02:14:47 GMT
+content-type: application/json; charset=utf-8
+content-length: 124
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=B9F%2B1wnKZI9eAZHSr82xdkfvf%2ByKKe6eQIuwMAFPtTxVM%2BiS1kLxWsRss%2BVwXkTr45%2F%2BxcbA0v3C8OKnBuk8P7Y2AwzC0HUk39Tafm3sMVe58SZuyZ3qbkmX18tKPN5rlpn5NdX%2B0pAa1qFcz3uiO2wspLl34zHrfQwmrhTMHvk%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46964f3583a6284-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"ITEM_INVALIDO","mensagem":"Cada item deve ser um objeto com produtoId e quantidade.","campo":"itens[0]"}}

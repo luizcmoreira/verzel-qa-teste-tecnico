@@ -1,0 +1,14 @@
+HTTP/2 200 
+date: Wed, 07 Oct 2026 00:35:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 225
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XCSU%2BepIDkdXwQPcMjXtYAHaQPMoLDA0r7nJBx6stMdp%2B2UVjFim%2BeJqTepp97qGvet7udrexZFG2c2iZvkFf%2Focjdc7iZzjDa12dD%2FipENVx14EIic8cZX%2BOap3edaBPRFKmCTpR1LXlDIoF5LjyRlDF8m%2FDvcrjyXAKVngyck%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a468d3cdea7e5415-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"itens":[{"produtoId":"P001","nome":"Camiseta Essencial","precoUnitario":59.9,"quantidade":6,"total":359.4}],"subtotal":359.4,"desconto":0,"frete":0,"freteGratis":true,"valorFaltanteFreteGratis":0,"total":359.4,"cupom":null}

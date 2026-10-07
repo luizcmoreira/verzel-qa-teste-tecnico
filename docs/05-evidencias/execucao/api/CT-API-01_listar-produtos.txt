@@ -1,0 +1,14 @@
+HTTP/2 200 
+date: Wed, 07 Oct 2026 02:14:46 GMT
+content-type: application/json; charset=utf-8
+content-length: 1069
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fQj%2Fz%2BII%2FGzyeM5PMDUkoiQUjQoWgaMOsF0boYmUJmgREV1Tw%2BarV2%2FEuSOO8e%2FR0OBCkERLGL6FJrc%2FHBh5A%2BDG5yfOg8wUs5v9pZSOacE2nRToI0Cusuf%2BQGmZmH5ywfTRS0v8DmaOF79ZAE9PfYwtiDoZIsOHM5EPRPEmd74%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46964eb7d5c2829-GRU
+alt-svc: h3=":443"; ma=86400
+
+[{"id":"P001","nome":"Camiseta Essencial","descricao":"Algodão penteado e corte reto.","categoria":"Vestuário","preco":59.9},{"id":"P002","nome":"Calça Jeans Slim","descricao":"Jeans com elastano e lavagem escura.","categoria":"Vestuário","preco":139.9},{"id":"P003","nome":"Tênis Casual Urbano","descricao":"Solado de borracha e cabedal em lona.","categoria":"Calçados","preco":189.9},{"id":"P004","nome":"Boné Aba Curva","descricao":"Ajuste traseiro com fivela metálica.","categoria":"Acessórios","preco":49.9},{"id":"P005","nome":"Mochila Urbana 20L","descricao":"Compartimento acolchoado para notebook.","categoria":"Acessórios","preco":100},{"id":"P006","nome":"Kit 3 Pares de Meias","descricao":"Cano médio, algodão com reforço no calcanhar.","categoria":"Vestuário","preco":29.9},{"id":"P007","nome":"Jaqueta Corta-Vento","descricao":"Tecido leve e repelente à água.","categoria":"Vestuário","preco":229.9},{"id":"P008","nome":"Garrafa Térmica 750ml","descricao":"Mantém a temperatura por até 12 horas.","categoria":"Acessórios","preco":50}]

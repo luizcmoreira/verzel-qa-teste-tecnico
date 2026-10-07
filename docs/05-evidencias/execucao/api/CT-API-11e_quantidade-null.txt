@@ -1,0 +1,14 @@
+HTTP/2 422 
+date: Wed, 07 Oct 2026 02:14:51 GMT
+content-type: application/json; charset=utf-8
+content-length: 145
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rwiVDk7ifGS32Qo6PJVWRcI9YqxFp8plazmxpBD%2B4Gy1Q6N4jFXx%2F8oTUY56Su6SuQ2j4riUKkilft2za3kbmabEWqe%2BIqVHCIMrTulugGqErTBQtp0tTJ8lQ3JlThqh1pcDkH4O8RwkDXvrZEIxlULR4WKGclmv%2Fhrdvd9BTpU%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a469650ca892f239-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"QUANTIDADE_INVALIDA","mensagem":"A quantidade deve ser um número inteiro maior ou igual a 1.","campo":"itens[0].quantidade"}}

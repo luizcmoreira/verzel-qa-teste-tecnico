@@ -1,0 +1,45 @@
+]633;E;for q in 5 100 1000;b5fe6167-dc61-4c8c-aa08-75db988e1569]633;Cquantidade=5
+HTTP/2 200 
+date: Wed, 07 Oct 2026 00:52:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 225
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3W4a9RiAe1FDJMaTlyKA69GA%2BIGTGrI96IB%2B2yB1sOe4z%2BtAQi4yqI2DL7qiM107i5C4YOQ1069hc1WEwSwJeW7i02eL31gDbG0WS8aosDWVtc%2F3Ewib712PWqzs7q9YXSJDhcdn2JM5jw7cHpOGduwZMqRKLMevjNFdpqswF8o%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a468ed1fcef802ea-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"itens":[{"produtoId":"P001","nome":"Camiseta Essencial","precoUnitario":59.9,"quantidade":5,"total":299.5}],"subtotal":299.5,"desconto":0,"frete":0,"freteGratis":true,"valorFaltanteFreteGratis":0,"total":299.5,"cupom":null}
+quantidade=100
+HTTP/2 200 
+date: Wed, 07 Oct 2026 00:52:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 224
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=veZfzB74qboutiNvHIYKfl3EFQcJ%2Bepvpfsn6UGDUyW7TPg0zrHivJzXjwXX0vNVU032HI%2F3MkVVYmjhh36PBeY77LP0XfKaaPJ%2BSSju2OrMwmKOHpHPcVExPAGGGpCXLiXIVyC528eA55TWdXbTwcNJG54hD7iOMgkIpNiN5ME%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a468ed212c22f199-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"itens":[{"produtoId":"P001","nome":"Camiseta Essencial","precoUnitario":59.9,"quantidade":100,"total":5990}],"subtotal":5990,"desconto":0,"frete":0,"freteGratis":true,"valorFaltanteFreteGratis":0,"total":5990,"cupom":null}
+quantidade=1000
+HTTP/2 200 
+date: Wed, 07 Oct 2026 00:52:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 228
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AlfD3wU7WtqrldosScqUnAaylVY0IY3L3D0089sDoKndH2%2FRdeviT%2FD4AFmtFJFfxbgFbnP%2FEaqEkH1QnUCDGgXXbKw6PmM0X2XoW%2FbRuDYfC8oLiiqpVezjcxWp9dP5Tggkf%2Bw5Htcdg%2BWz%2BomdBqA%2BgsxWoaSxvGHO0NA7tFE%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a468ed227d48bba0-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"itens":[{"produtoId":"P001","nome":"Camiseta Essencial","precoUnitario":59.9,"quantidade":1000,"total":59900}],"subtotal":59900,"desconto":0,"frete":0,"freteGratis":true,"valorFaltanteFreteGratis":0,"total":59900,"cupom":null}

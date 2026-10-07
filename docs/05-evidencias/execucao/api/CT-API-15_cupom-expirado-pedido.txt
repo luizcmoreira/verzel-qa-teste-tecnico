@@ -1,0 +1,14 @@
+HTTP/2 422 
+date: Wed, 07 Oct 2026 02:14:49 GMT
+content-type: application/json; charset=utf-8
+content-length: 81
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KVJYeewuNZ4L2zdVAxYFHQMY0pF5v%2BsXh4kDTviGlILozCsxQH3T0wJPQyUWcNkuUPRwOr2CIwq6mh1U0wGOXyIFcmYpJkeGktkYfKFvDCWs0eek3J67PjhZDZJqB0A46RHyHoGAEYSC103vGzPYsr3kdKO2VTxPHF%2Fh4r8kkmI%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46965009c6a6239-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"CUPOM_EXPIRADO","mensagem":"Cupom expirado.","campo":"cupom"}}

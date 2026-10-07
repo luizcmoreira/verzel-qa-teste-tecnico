@@ -1,0 +1,14 @@
+HTTP/2 404 
+date: Wed, 07 Oct 2026 02:14:46 GMT
+content-type: application/json; charset=utf-8
+content-length: 76
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sMLEL%2FEyxaOgkYS08F01kzMPTJW6LbPyzYDQ%2BO6Bc%2BAmvrPQ1vxXB%2B5qdCy2WDfe9y%2BrRkDAaFKagrI9M3cnv6jOPe7nL5s1RjEm4sOj%2B%2BikCunkaanRTTTl1%2BMhOv7ScjFj%2FycvU7ThE7g4krV1HbhJHASCganKBrj4N6I%2Fu6E%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46964ef2a4aaf47-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"ROTA_NAO_ENCONTRADA","mensagem":"Rota não encontrada."}}

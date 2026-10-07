@@ -1,0 +1,14 @@
+HTTP/2 422 
+date: Wed, 07 Oct 2026 02:14:49 GMT
+content-type: application/json; charset=utf-8
+content-length: 82
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ASwG59RbuxJooK%2B9XwDeo0Co9lif%2FTWeLo2U%2Bizz8Yqk2HhS0xm%2FuqjRdx2rw4bygTYMWY5KdD2FzvvH4o34bp1tTILmlVxuG%2B75MFm4YOV6cp3rzsnfOmF9Jnel8tUYABA4p5gnuCw1YiqMU9TfqdzcBa0fQ7Wnc2s4BqiG6e8%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46964ff5fa1f90f-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"CUPOM_INVALIDO","mensagem":"Cupom inválido.","campo":"cupom"}}

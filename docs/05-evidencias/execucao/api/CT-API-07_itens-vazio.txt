@@ -1,0 +1,14 @@
+HTTP/2 422 
+date: Wed, 07 Oct 2026 02:14:47 GMT
+content-type: application/json; charset=utf-8
+content-length: 95
+access-control-allow-origin: *
+access-control-allow-headers: content-type
+access-control-allow-methods: GET, POST, OPTIONS
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MpbmckGCZNXflUs%2BOLIBlM7KGD7Sqx45u%2BB8aNjBjNSXjKVL61swxF7s%2BwLZMk4eCx64vW2WPgM6R91Rb8Uobq47Shpt0BadV9FzcIxlqibI7O8WRTcB1GM8BNHjB5ZcQUdSg7VP6x6FyhOrU8Mp7o6FjNfUkrucfcp6cEhEwz4%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: a46964f1fa5df187-GRU
+alt-svc: h3=":443"; ma=86400
+
+{"erro":{"codigo":"ITENS_OBRIGATORIOS","mensagem":"Informe ao menos um item.","campo":"itens"}}
